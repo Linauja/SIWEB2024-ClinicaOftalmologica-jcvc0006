@@ -28,8 +28,26 @@ También ha recalcado que:
 
 Después de haber estudiado el segundo bloque del temario y de haber comprendido los conceptos del mismo se me han ocurrido **nuevos objetivos que debe tener el sistema hipermedia:**
 
-- **Sistema de recomendación de contenidos y de muestreo de información adaptativo:** este sistema adaptara la estructura del hiperdocumeto, en función de la navegación del usuario. (Esto conseguira evitar la sobrecarga de información, es decir, que los usuarios rechacen la navegación del mismo debido a su complejidad inicial. Y permite que los usuarios  que busquen información más específica )
+- **Sistema de recomendación de contenidos y de muestreo de información adaptativo:** este sistema adaptara la estructura del hiperdocumeto, en función de la navegación del usuario. (Esto conseguira evitar la sobrecarga de información, es decir, que los usuarios rechacen la navegación del mismo debido a su complejidad inicial. Y permite que los usuarios más experimentados que busquen información más específica ). Es decir:
+	- Para usuarios que visiten la página por primera vez mostrará información más orientativa: 
+		- Dirección de la clínica.
+		- Número de teléfono de contacto.
+		- Correo electrónico.
+		- Horario de atención.
+		- Información sobre el equipo médico con el que cuenta la clínica: oftalmólogos, optometrístitas, tecnologías y equipos...
+		- Servicios que ofrece la clínica: como exámenes de vista, cirugía ocular...
+		- Procedimientos y Tratamientos.
+		- Información educativa de interés.
+		- Seguros aceptados.
+		- Testimonios y casos de éxito.
+		- Galería de Instalaciones.
+		- Política de Privacidad.
 
+	- Para los usuarios que no son nuevos en la página: 
+		- Se le ofrecerán recomendaciones en función d
+
+	- Para los usuarios registrados en la base de datos:
+		- Mostrará alertas para notificarle que ha pasado mucho tiempo sin realizarse una revisión. 
 
 - **Tener una base de datos de los clientes**, que almacene: 
 	- **Nombre, Apellidos.** 
