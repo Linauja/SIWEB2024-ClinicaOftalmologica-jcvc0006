@@ -28,8 +28,10 @@ También ha recalcado que:
 
 Después de haber estudiado el segundo bloque del temario y de haber comprendido los conceptos del mismo se me han ocurrido **nuevos objetivos que debe tener el sistema hipermedia:**
 
-- **Sistema de recomendación de contenidos y de muestreo de información adaptativo:** este sistema adaptara la estructura del hiperdocumeto, en función de la navegación del usuario. (Esto conseguira evitar la sobrecarga de información, es decir, que los usuarios rechacen la navegación del mismo debido a su complejidad inicial. Y permite que los usuarios más experimentados que busquen información más específica ). Es decir:
-	- Para usuarios que visiten la página por primera vez mostrará información más orientativa: 
+- **El objetivo principal en el que se centra el sitio web:** es mostrar información sobre la clínica para atraer nuevos clientes.
+
+- **Contar con un sistema de recomendación de contenidos y de muestreo de información adaptativo:** este sistema adaptara la estructura del hiperdocumeto, en función de la navegación del usuario. (Esto conseguira evitar la sobrecarga de información, es decir, que los usuarios rechacen la navegación del mismo debido a su complejidad inicial. Y permite que los usuarios más experimentados que busquen información más específica ). Es decir:
+	- Para **usuarios que visiten la página por primera vez** mostrará información más orientativa: 
 		- Dirección de la clínica.
 		- Número de teléfono de contacto.
 		- Correo electrónico.
@@ -43,15 +45,17 @@ Después de haber estudiado el segundo bloque del temario y de haber comprendido
 		- Galería de Instalaciones.
 		- Política de Privacidad.
 
-	- Para los usuarios que no son nuevos en la página: 
+	- Para los **usuarios que no son nuevos en la página**: 
 		- Se le ofrecerán recomendaciones en función de la navegación que hayan realizado.
 
-	- Para los usuarios registrados en la base de datos:
+	- Para los **usuarios registrados en la base de datos**:
 		- Mostrará alertas para notificarle que ha pasado mucho tiempo sin realizarse una revisión. 
 
 - **Tener una base de datos de los clientes**, que almacene: 
 	- **Nombre, Apellidos.** 
 	- **Correo Electrónico:** También podríamos enviar un correo electrónico cuando el usuario lleve mucho tiempo sin revisarse la vista.
 	- **DNI:** Utilizaremos el DNI para ubicar al usuario y **mostrarle  un mensaje de alerta cuando lleve mucho tiempo sin revisarse la vista**.
+
+- **En la base de datos podríamos diferenciar entre usuarios cliente y usuarios trabajadores:** permitiendo al propietario de la clínica o jefes colgar tareas a sus empleados.
 
 
