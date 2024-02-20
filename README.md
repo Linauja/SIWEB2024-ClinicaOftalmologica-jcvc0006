@@ -44,7 +44,7 @@ Después de haber estudiado el segundo bloque del temario y de haber comprendido
 		- Política de Privacidad.
 
 	- Para los usuarios que no son nuevos en la página: 
-		- Se le ofrecerán recomendaciones en función d
+		- Se le ofrecerán recomendaciones en función de la navegación que hayan realizado.
 
 	- Para los usuarios registrados en la base de datos:
 		- Mostrará alertas para notificarle que ha pasado mucho tiempo sin realizarse una revisión. 
