@@ -18,9 +18,9 @@ Cuando vi dicha página, me di cuenta de que podría ofrecer más servicios que 
 Después de charlar con mi tío, hemos llegado a la conclusión de que mostrar el historial médico de un cliente aunque lo hagamos accediendo mediante usuario y contraseña podría poner en peligro su privacidad. **Por lo que descartamos el mostrar información de su historial médico particular.**
 
 También ha recalcado que: 
-	-	El sitio web debe **ser sencillo, en un principio,** con el objetivo de atraer clientes potenciales que no tienen mucho conocimiento de la materia.
-	-	Tiene que tener un **diseño simple, moderno y que inspire confianza** al cliente con el objetivo de retenerlo. Es decir el diseño debe **inspirar confianza al usuario.**
-	-	Aunque no debe tener demasiados terminos técnicos, tiene que **dar a conocer que la clínica posee herramientas específicas para realizar algunos tipos de operaciones.**
+-	El sitio web debe **ser sencillo, en un principio,** con el objetivo de atraer clientes potenciales que no tienen mucho conocimiento de la materia.
+-	Tiene que tener un **diseño simple, moderno y que inspire confianza** al cliente con el objetivo de retenerlo. Es decir el diseño debe **inspirar confianza al usuario.**
+-	Aunque no debe tener demasiados terminos técnicos, tiene que **dar a conocer que la clínica posee herramientas específicas para realizar algunos tipos de operaciones.**
 
   
 
