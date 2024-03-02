@@ -77,9 +77,9 @@ En general la estructura del sitio web está orientada en el usuario. Pero tiene
 -	En la barra principal parecen términos que un usuario sin conocimientos de medicina no podría entender. Por lo que es información innecesaria o mal estructurada. Puede hacer que el usuario pierda el interés de seguir navegando por el sitio.
 
 
-<center>
+
 ![Captura del Menú Desplegable](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20barra%20dos.JPG?raw=true)
-</center>
+
 
 ![Captura del Submenú de Otras Patologías](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/Imagen%20otras%20patologias.JPG?raw=true)
 
@@ -88,13 +88,13 @@ En general la estructura del sitio web está orientada en el usuario. Pero tiene
 
 
  
-Es evidente que han situado dichas patologías en la barra principal porque son las más comunes, pero pienso que para un usuario que no había visitado el sitio web con anterioridad sería de mayor utilidad la información sobre la clínica que sobre el tratamiento de patologías concretas.
+Es evidente que han situado dichas patologías en la barra principal porque son las más comunes. Pero pienso que para un usuario que no había visitado el sitio web con anterioridad sería de mayor utilidad la información sobre la clínica que sobre el tratamiento de patologías concretas.
 
-El sitio web no indica la fecha de actualización de este, pienso que es porque no se actualiza con mucha frecuencia.
+El sitio web no indica la fecha de actualización del mismo. Pienso que es porque no se actualiza con mucha frecuencia.
 
-El sitio web es reconocible y su look&feel corresponde con el objetivo de atraer nuevos clientes ya que induce al usuario a pensar que es una clínica moderna y fiable solo con el aspecto de la página web. También es reconocible ya que aporta una apariencia más trabajada que la de sus competidores y más funcionalidades e información adicional.
+El sitio web es reconocible y su look&feel corresponde con el objetivo de atraer nuevos clientes ya que induce al usuario a pensar que es una clínica moderna y fiable, solo con el aspecto de la página web. También es reconocible ya que aporta una apariencia más trabajada que la de sus competidores y más funcionalidades e información adicional.
 
-2.	IDENTIDAD E INFORMACIÓN 
+#### 2.	IDENTIDAD E INFORMACIÓN 
 El logotipo es reconocible, significativo y suficientemente visible. Destaca frente a los logotipos de sus competidores.
  
 ![Logotipo](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20logo.JPG?raw=true)
@@ -104,43 +104,35 @@ Proporciona información sobre el web master, sobre la protección de datos de c
 ![Derechos de Autor](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20copyright.JPG?raw=true)
  
 
-3.	LENGUAJE Y REDACCIÓN
+#### 3.	LENGUAJE Y REDACCIÓN
 El sitio web intenta suprimir términos que podrían no entender los usuarios promedio. Utiliza un lenguaje amigable, familiar y cercano.
-4.	ROTULADO
+#### 4.	ROTULADO
 
-
-
-
-
-
-
-
-ESTRUCTURA Y NAVEGACIÓN
-1.	ESTRUCTURA Y NAVEGACIÓN
+#### 5.	ESTRUCTURA Y NAVEGACIÓN
 La estructura de esta página se basa en una barra inicial que agrupa los contenidos en categorías principales y dentro de esas categorías principales en subcategorías.
  
-2.	LAYOUT DE LA PÁGINA
-3.	BÚSQUEDA (EN CASO DE SER NECESARIA)
-4.	ELEMENTOS MULTIMEDIA
-5.	AYUDA
-6.	ACCESIBILIDAD
-7.	CONTROL Y RETROALIMENTACIÓN
+#### 6.	LAYOUT DE LA PÁGINA
+#### 7.	BÚSQUEDA (EN CASO DE SER NECESARIA)
+#### 8.	ELEMENTOS MULTIMEDIA
+#### 9.	AYUDA
+#### 10. ACCESIBILIDAD
+#### 11. CONTROL Y RETROALIMENTACIÓN
 
-HEURÍSTICOS ESPECÍFICOS
-1.	INFORMA SOBRE LOS TRATAMIENTOS DE LOS QUE DISPONE LA CLÍNICA
-2.	MUESTRA EL TELEFONO, MAIL, HORARIO DE LA CLÍNICA.
-3.	MUESTRA LOS SEGUROS QUE TRABAJAN CON LA CLÍNICA.
-4.	PRESENTA UNA DESCRIPCIÓN DEL PERSONAL DE LA CLÍNICA.
-5.	MUESTRA LAS DIFERENTES OPINIONES DE LOS CLIENTES.
-6.	EXISTE LA POSIBILIDAD DE ACCEDER A LAS REDES SOCIALES DE LA CLÍNICA.
-7.	PRESENTA INFORMACIÓN SOBRE EL EQUIPO MÉDICO QUE CUENTA LA CLÍNICA.
-8.	PRESENTA INFORMACIÓN EDUCATIVA DE INTERÉS.
-9.	PRESENTA UNA GALERÍA CON FOTOS DE LAS INSTALACIONES DE LA CLÍNICA.
-10.	PRESENTA COMPROBANTES DE CALIDAD DE LA CLÍNICA O GALARCIONES DE LA MISMA.
-11.	PRESENTA UN FORMULARIO PARA QUE LA CLÍNICA OBTENGA LOS DATOS DE LOS USUARIOS.
-
-
-PROPUESTAS DE SOLUCIÓN
+#### 12. HEURÍSTICOS ESPECÍFICOS
+#### 12.1 INFORMA SOBRE LOS TRATAMIENTOS DE LOS QUE DISPONE LA CLÍNICA
+#### 12.2 MUESTRA EL TELEFONO, MAIL, HORARIO DE LA CLÍNICA.
+#### 12.3 MUESTRA LOS SEGUROS QUE TRABAJAN CON LA CLÍNICA.
+#### 12.4 PRESENTA UNA DESCRIPCIÓN DEL PERSONAL DE LA CLÍNICA.
+#### 12.5 MUESTRA LAS DIFERENTES OPINIONES DE LOS CLIENTES.
+#### 12.6 EXISTE LA POSIBILIDAD DE ACCEDER A LAS REDES SOCIALES DE LA CLÍNICA.
+#### 12.7 PRESENTA INFORMACIÓN SOBRE EL EQUIPO MÉDICO QUE CUENTA LA CLÍNICA.
+#### 12.8 PRESENTA INFORMACIÓN EDUCATIVA DE INTERÉS.
+#### 12.9 PRESENTA UNA GALERÍA CON FOTOS DE LAS INSTALACIONES DE LA CLÍNICA.
+#### 12.10 PRESENTA COMPROBANTES DE CALIDAD DE LA CLÍNICA O GALARCIONES DE LA MISMA.
+#### 12.11 PRESENTA UN FORMULARIO PARA QUE LA CLÍNICA OBTENGA LOS DATOS DE LOS USUARIOS.
 
 
-CARACTERÍSTICAS PARTICULARES DE INTERÉS
+### PROPUESTAS DE SOLUCIÓN
+
+
+### CARACTERÍSTICAS PARTICULARES DE INTERÉS
