@@ -64,23 +64,22 @@ Después de haber estudiado el segundo bloque del temario y de haber comprendido
 
 ## PLANIFICACIÓN: EXAMINANDO SITIO WEB
 
-### TEST HEURÍSTICO 1: VISIOON
-
-#### URL: [vis](https://visioon.es/clinica-oftalmologica-jaen/)
+### TEST HEURÍSTICO 1: [VISIOON](https://visioon.es/clinica-oftalmologica-jaen/)
 
 #### 1.	GENERALES
 
 Los objetivos concretos y bien definidos del sitio web son: por un lado, informar sobre la clínica y por otro lado conseguir que esos usuarios se conviertan en futuros clientes de la misma. 
 
-La URL no es fácil de recordad ya que el sitio web pertenece a un sitio web mas grande y la URL del mismo depende de la del padre: ‘https://visioon.es/clinica-oftalmologica-jaen/’.
+La URL no es fácil de recordar ya que el sitio web pertenece a un sitio web mas grande y la URL del mismo depende de la del padre: https://visioon.es/clinica-oftalmologica-jaen/.
 
 
 En general la estructura del sitio web está orientada en el usuario. Pero tiene algunos fallos: 
--	En la barra principal parecen términos que un usuario sin conocimientos de medicina no podría entender. Por lo que es información innecesaria o mal estructurada.
+-	En la barra principal parecen términos que un usuario sin conocimientos de medicina no podría entender. Por lo que es información innecesaria o mal estructurada. Puede hacer que el usuario pierda el interés de seguir navegando por el sitio.
 
 
- 
+<center>
 ![Captura del Menú Desplegable](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20barra%20dos.JPG?raw=true)
+</center>
 
 ![Captura del Submenú de Otras Patologías](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/Imagen%20otras%20patologias.JPG?raw=true)
 
@@ -98,9 +97,11 @@ El sitio web es reconocible y su look&feel corresponde con el objetivo de atraer
 2.	IDENTIDAD E INFORMACIÓN 
 El logotipo es reconocible, significativo y suficientemente visible. Destaca frente a los logotipos de sus competidores.
  
+![Logotipo](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20logo.JPG?raw=true)
 
 Proporciona información sobre el web master, sobre la protección de datos de carácter personal de los clientes y de los derechos de autor de los contenidos del sitio web en el pie de página.
 
+![Derechos de Autor](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20copyright.JPG?raw=true)
  
 
 3.	LENGUAJE Y REDACCIÓN
