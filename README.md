@@ -125,8 +125,8 @@ La estructura de esta página se basa en una barra inicial que agrupa los conten
 
 ![Captura del Submenú de nuestras clínicas](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20nuestra%20clinica.JPG?raw=true)
 
-- La estructura de organización y navegación sigue la convención o la estructura de las demás paginas con los mismos objetivos.
-- Los enlaces son reconocibles como tales ya que cambian de color.ç
+- La estructura de organización y navegación sigue las convenciones o la estructura de las demás paginas con los mismos objetivos.
+- Los enlaces son reconocibles como tales ya que cambian de color.
 
 - Estan todos los nodos comunicados.
 
@@ -134,7 +134,7 @@ La estructura de esta página se basa en una barra inicial que agrupa los conten
 
 ![Captura del Submenú de nuestras clínicas](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20nuestra%20clinica.JPG?raw=true)
 
-- No existen elementos de navegación que orienten al usuario acerca de dónde está y cómo deshacer su navegación: una opción viable sería las migajas. Aunque creo que no se proporciona dicha ayuda a la navegación porque el sitio web es muy amplio, es decir, no es posible perderse a nivel de profundidad. Sin embargo, al ser tan amplio el usuario deberá realizar un proceso mental para decidir entre tantas posibles opciones, lo que puede hacer que pierda el interés de seguir navegando en el sitio web.
+- No existen elementos de navegación que orienten al usuario acerca de dónde está y cómo deshacer su navegación: una opción viable serían las migajas. Aunque creo que no se proporciona dicha ayuda a la navegación porque el sitio web es muy amplio, es decir, no es posible perderse a nivel de profundidad. Sin embargo, al ser tan amplio el usuario deberá realizar un proceso mental para decidir entre tantas posibles opciones, lo que puede hacer que pierda el interés de seguir navegando en el sitio web.
 
 - Se ha evitado la redundancia de enlaces.
 
@@ -151,7 +151,7 @@ La estructura de esta página se basa en una barra inicial que agrupa los conten
 
 - Se evita la sobrecarga informativa, destacando lo más importante del texto. Igual podríamos reducir los textos que aparecen.
 
-** TEXTO DE EJEMPLO ** 
+![Texto de Ejemplo](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/texto%20de%20ejemplo.JPG?raw=true)
 
 #### 7.	BÚSQUEDA (EN CASO DE SER NECESARIA)
 
@@ -160,7 +160,7 @@ No ofrece herramientas de búsqueda.
 
 El uso de imágenes induce al usuario a confiar más en el sitio web y en la empresa. Pero hay algunas fotografías que no tienen que ver con el producto que se presenta.
 
-
+![Imagen que no tiene que ver con el producto ofrecido](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/fotografia%20que%20no%20tiene%20quever.JPG?raw=true)
 
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
