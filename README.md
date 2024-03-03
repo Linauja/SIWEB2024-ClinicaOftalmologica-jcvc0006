@@ -105,32 +105,79 @@ Proporciona información sobre el web master, sobre la protección de datos de c
  
 
 #### 3.	LENGUAJE Y REDACCIÓN
-El sitio web intenta suprimir términos que podrían no entender los usuarios promedio. Utiliza un lenguaje amigable, familiar y cercano.
+El sitio web intenta suprimir términos que podrían no entender los usuarios promedio, pero sin éxito. Como hemos dicho antes el menú desplegable principal contiene términos que no tedría porque conocer un usuario común.
+
+Utiliza un lenguaje amigable, familiar y cercano.
+
+
+
 #### 4.	ROTULADO
+
+El rotulado de la página es correcto.
 
 #### 5.	ESTRUCTURA Y NAVEGACIÓN
 La estructura de esta página se basa en una barra inicial que agrupa los contenidos en categorías principales y dentro de esas categorías principales en subcategorías.
+
+![Captura del Menú Desplegable](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20barra%20dos.JPG?raw=true)
+
+
+![Captura del Submenú de Otras Patologías](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/Imagen%20otras%20patologias.JPG?raw=true)
+
+![Captura del Submenú de nuestras clínicas](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20nuestra%20clinica.JPG?raw=true)
+
+- La estructura de organización y navegación sigue la convención o la estructura de las demás paginas con los mismos objetivos.
+- Los enlaces son reconocibles como tales ya que cambian de color.ç
+
+- Estan todos los nodos comunicados.
+
+- En los menus de navegación no se ha controlado el número de elementos y términos.
+
+![Captura del Submenú de nuestras clínicas](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/clinica-vision/imagen%20nuestra%20clinica.JPG?raw=true)
+
+- No existen elementos de navegación que orienten al usuario acerca de dónde está y cómo deshacer su navegación: una opción viable sería las migajas. Aunque creo que no se proporciona dicha ayuda a la navegación porque el sitio web es muy amplio, es decir, no es posible perderse a nivel de profundidad. Sin embargo, al ser tan amplio el usuario deberá realizar un proceso mental para decidir entre tantas posibles opciones, lo que puede hacer que pierda el interés de seguir navegando en el sitio web.
+
+- Se ha evitado la redundancia de enlaces.
+
+- El sitio web no ofrece la posibilidad de que los enlaces le den al usuario el chivatazo que le permitiría conocer de que trata la información que contiene el enlace antes de clicarlo.
+
+- Se ha controlado que no haya páginas web "huerfanas".
+
+- El usuario puede disfrutar de todos los contenidos del sitio web sin necesidad de tener que descargar e instalar plugins adicionales.
+
+
+
  
 #### 6.	LAYOUT DE LA PÁGINA
-El layout de la página es parecido a las demás páginas del estilo. 
+
+- Se evita la sobrecarga informativa, destacando lo más importante del texto. Igual podríamos reducir los textos que aparecen.
+
+** TEXTO DE EJEMPLO ** 
+
 #### 7.	BÚSQUEDA (EN CASO DE SER NECESARIA)
+
+No ofrece herramientas de búsqueda.
 #### 8.	ELEMENTOS MULTIMEDIA
+
+El uso de imágenes induce al usuario a confiar más en el sitio web y en la empresa. Pero hay algunas fotografías que no tienen que ver con el producto que se presenta.
+
+
+
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
+
+- El tamaño de la fuente es lo suficientemente grande como para no dificultar la legibilidad del texto.
+
+- El tipo de fuente y los efectos tipográficos, ancho de línea y alineación empleados facilitan la lectura.
+
+- Existe un alto contraste entre el color de fuente y fondo.
+
+- Las imagenes no incluyen atributos 'alt' que describan su contenido.
+
+- Es compatible con diferentes navegadores y además con diferentes resoluciones de pantalla.
+
 #### 11. CONTROL Y RETROALIMENTACIÓN
 
-#### 12. HEURÍSTICOS ESPECÍFICOS
-#### 12.1 INFORMA SOBRE LOS TRATAMIENTOS DE LOS QUE DISPONE LA CLÍNICA
-#### 12.2 MUESTRA EL TELEFONO, MAIL, HORARIO DE LA CLÍNICA.
-#### 12.3 MUESTRA LOS SEGUROS QUE TRABAJAN CON LA CLÍNICA.
-#### 12.4 PRESENTA UNA DESCRIPCIÓN DEL PERSONAL DE LA CLÍNICA.
-#### 12.5 MUESTRA LAS DIFERENTES OPINIONES DE LOS CLIENTES.
-#### 12.6 EXISTE LA POSIBILIDAD DE ACCEDER A LAS REDES SOCIALES DE LA CLÍNICA.
-#### 12.7 PRESENTA INFORMACIÓN SOBRE EL EQUIPO MÉDICO QUE CUENTA LA CLÍNICA.
-#### 12.8 PRESENTA INFORMACIÓN EDUCATIVA DE INTERÉS.
-#### 12.9 PRESENTA UNA GALERÍA CON FOTOS DE LAS INSTALACIONES DE LA CLÍNICA.
-#### 12.10 PRESENTA COMPROBANTES DE CALIDAD DE LA CLÍNICA O GALARCIONES DE LA MISMA.
-#### 12.11 PRESENTA UN FORMULARIO PARA QUE LA CLÍNICA OBTENGA LOS DATOS DE LOS USUARIOS.
+
 
 #### PROPUESTAS DE SOLUCIÓN
 
@@ -149,18 +196,6 @@ El layout de la página es parecido a las demás páginas del estilo.
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
 #### 11. CONTROL Y RETROALIMENTACIÓN
-#### 12. HEURÍSTICOS ESPECÍFICOS
-#### 12.1 INFORMA SOBRE LOS TRATAMIENTOS DE LOS QUE DISPONE LA CLÍNICA
-#### 12.2 MUESTRA EL TELEFONO, MAIL, HORARIO DE LA CLÍNICA.
-#### 12.3 MUESTRA LOS SEGUROS QUE TRABAJAN CON LA CLÍNICA.
-#### 12.4 PRESENTA UNA DESCRIPCIÓN DEL PERSONAL DE LA CLÍNICA.
-#### 12.5 MUESTRA LAS DIFERENTES OPINIONES DE LOS CLIENTES.
-#### 12.6 EXISTE LA POSIBILIDAD DE ACCEDER A LAS REDES SOCIALES DE LA CLÍNICA.
-#### 12.7 PRESENTA INFORMACIÓN SOBRE EL EQUIPO MÉDICO QUE CUENTA LA CLÍNICA.
-#### 12.8 PRESENTA INFORMACIÓN EDUCATIVA DE INTERÉS.
-#### 12.9 PRESENTA UNA GALERÍA CON FOTOS DE LAS INSTALACIONES DE LA CLÍNICA.
-#### 12.10 PRESENTA COMPROBANTES DE CALIDAD DE LA CLÍNICA O GALARCIONES DE LA MISMA.
-#### 12.11 PRESENTA UN FORMULARIO PARA QUE LA CLÍNICA OBTENGA LOS DATOS DE LOS USUARIOS.
 
 #### PROPUESTAS DE SOLUCIÓN
 
@@ -179,18 +214,7 @@ El layout de la página es parecido a las demás páginas del estilo.
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
 #### 11. CONTROL Y RETROALIMENTACIÓN
-#### 12. HEURÍSTICOS ESPECÍFICOS
-#### 12.1 INFORMA SOBRE LOS TRATAMIENTOS DE LOS QUE DISPONE LA CLÍNICA
-#### 12.2 MUESTRA EL TELEFONO, MAIL, HORARIO DE LA CLÍNICA.
-#### 12.3 MUESTRA LOS SEGUROS QUE TRABAJAN CON LA CLÍNICA.
-#### 12.4 PRESENTA UNA DESCRIPCIÓN DEL PERSONAL DE LA CLÍNICA.
-#### 12.5 MUESTRA LAS DIFERENTES OPINIONES DE LOS CLIENTES.
-#### 12.6 EXISTE LA POSIBILIDAD DE ACCEDER A LAS REDES SOCIALES DE LA CLÍNICA.
-#### 12.7 PRESENTA INFORMACIÓN SOBRE EL EQUIPO MÉDICO QUE CUENTA LA CLÍNICA.
-#### 12.8 PRESENTA INFORMACIÓN EDUCATIVA DE INTERÉS.
-#### 12.9 PRESENTA UNA GALERÍA CON FOTOS DE LAS INSTALACIONES DE LA CLÍNICA.
-#### 12.10 PRESENTA COMPROBANTES DE CALIDAD DE LA CLÍNICA O GALARCIONES DE LA MISMA.
-#### 12.11 PRESENTA UN FORMULARIO PARA QUE LA CLÍNICA OBTENGA LOS DATOS DE LOS USUARIOS.
+
 
 #### PROPUESTAS DE SOLUCIÓN
 
@@ -209,19 +233,36 @@ El layout de la página es parecido a las demás páginas del estilo.
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
 #### 11. CONTROL Y RETROALIMENTACIÓN
-#### 12. HEURÍSTICOS ESPECÍFICOS
-#### 12.1 INFORMA SOBRE LOS TRATAMIENTOS DE LOS QUE DISPONE LA CLÍNICA
-#### 12.2 MUESTRA EL TELEFONO, MAIL, HORARIO DE LA CLÍNICA.
-#### 12.3 MUESTRA LOS SEGUROS QUE TRABAJAN CON LA CLÍNICA.
-#### 12.4 PRESENTA UNA DESCRIPCIÓN DEL PERSONAL DE LA CLÍNICA.
-#### 12.5 MUESTRA LAS DIFERENTES OPINIONES DE LOS CLIENTES.
-#### 12.6 EXISTE LA POSIBILIDAD DE ACCEDER A LAS REDES SOCIALES DE LA CLÍNICA.
-#### 12.7 PRESENTA INFORMACIÓN SOBRE EL EQUIPO MÉDICO QUE CUENTA LA CLÍNICA.
-#### 12.8 PRESENTA INFORMACIÓN EDUCATIVA DE INTERÉS.
-#### 12.9 PRESENTA UNA GALERÍA CON FOTOS DE LAS INSTALACIONES DE LA CLÍNICA.
-#### 12.10 PRESENTA COMPROBANTES DE CALIDAD DE LA CLÍNICA O GALARCIONES DE LA MISMA.
-#### 12.11 PRESENTA UN FORMULARIO PARA QUE LA CLÍNICA OBTENGA LOS DATOS DE LOS USUARIOS.
+
 
 #### PROPUESTAS DE SOLUCIÓN
 
 #### CARACTERÍSTICAS PARTICULARES DE INTERÉS
+
+## ANTEPROYECTO DEL SITIO WEB
+
+## Título del Proyecto: Clínica Oftalmológica
+
+## Descripción del Proyeto: 
+
+El proyecto consiste en elaborar un sitio web, para una clínica oftalmológica, con los siguientes objetivos: 
+
+## Descripción de la organización o institución: 
+
+## Tipo de Proyecto
+
+## Propósito
+
+## Objetivos
+
+## Palabras clave
+
+## Metodología
+
+## Resultados esperados
+
+## Requisitos Hardware y Software
+
+## Bibliografía
+
+## Documentación
