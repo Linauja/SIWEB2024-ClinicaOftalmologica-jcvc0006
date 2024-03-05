@@ -199,7 +199,7 @@ No es reconocible el diseño general del sitio web.
 
 El sitio web no se actualiza periodicamente.
 
-**FOTO DE LA PÁGINA PRINCIPAL**
+![Página Principal](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/visioon2/pagina%20principal.png?raw=true)
 
 #### 2.	IDENTIDAD E INFORMACIÓN 
 
@@ -207,12 +207,12 @@ Se muestra claramente la identidad de la empresa a través de todas las páginas
 
 El logotipo es suficientemente visible, identificable y significativo.
 
-**FOTO DEL LOGOTIPO**
+![Logotipo](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/visioon2/logotipo.png?raw=true)
 
 
 Se proporciona información sobre los derechos de autor.
 
-**FOTO DE LOS DERECHOS DE AUTOR** 
+![Derechos de Autor](https://github.com/juanblack/SIWEB2024-ClinicaOftalmologica-jcvc0006/blob/main/Imagenes%20Readme/visioon2/politica%20de%20privacidad.png?raw=true)
 
 #### 3.	LENGUAJE Y REDACCIÓN
 
