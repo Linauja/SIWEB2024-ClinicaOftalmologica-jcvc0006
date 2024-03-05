@@ -268,15 +268,17 @@ El sitio web habla el mismo lenguaje que sus usuarios.
 
 #### 5.	ESTRUCTURA Y NAVEGACIÓN 
 
-- La estructura de organización y navegación no sigue las convenciones o la estructura de las demás paginas con los mismos objetivos.
+- La estructura de organización y navegación no sigue las convenciones o la estructura de las demás paginas con los mismos objetivos. Carece de una barra principal en la que se muestren las diferentes categorías en las que se agrupan los contenidos del sitio web.
 
 - Los enlaces son reconocibles como tales ya que cambian de color.
 
 - Estan todos los nodos comunicados.
 
-- En los menus de navegación no se ha controlado el número de elementos y términos.
+- En los menus de navegación se ha controlado el número de elementos y términos.
 
-- No existen elementos de navegación que orienten al usuario acerca de dónde está y cómo deshacer su navegación: una opción viable serían las migajas. Aunque creo que no se proporciona dicha ayuda a la navegación porque el sitio web es muy amplio, es decir, no es posible perderse a nivel de profundidad. Sin embargo, al ser tan amplio el usuario deberá realizar un proceso mental para decidir entre tantas posibles opciones, lo que puede hacer que pierda el interés de seguir navegando en el sitio web.
+- Existen elementos de navegación que hacen saber al usuario donde está y como deshacer su navegación. 
+
+** FOTO MIGAJAS** 
 
 - Se ha evitado la redundancia de enlaces.
 
@@ -292,6 +294,7 @@ El sitio web habla el mismo lenguaje que sus usuarios.
 
 #### 7.	BÚSQUEDA (EN CASO DE SER NECESARIA)
 
+El sitio web no proporciona herramientas de búsqueda.
 
 #### 8.	ELEMENTOS MULTIMEDIA
 #### 9.	AYUDA
