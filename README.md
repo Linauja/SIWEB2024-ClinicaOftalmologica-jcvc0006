@@ -232,6 +232,9 @@ Se aprovechan las zonas de alta jerarquía informativa de la página para conten
 No proporciona herramientas de búsqueda.
 
 #### 8.	ELEMENTOS MULTIMEDIA
+
+Las fotografías estás bien recortadas, son comprensibles y se ha cuidado su resolución. El uso de imagenes tiene como consecuencia el aumento de la confianza del usuario en la empresa.
+
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
 #### 11. CONTROL Y RETROALIMENTACIÓN
@@ -243,6 +246,9 @@ No proporciona herramientas de búsqueda.
 ### TEST HEURÍSTICO 3: [GALLEGO](https://oftalmologosgallego.es/)
 
 #### 1.	GENERALES
+
+Los objetivos del sitio web son los mimos que los de los anteriores sitios web. Son concretos y bien definidos. Los contenidos que ofrece se corresponden con esos objetivos. Tiene una URL facil de recordar aunque un poco larga: 'https://www.oftalmologosgallego.es' 
+
 #### 2.	IDENTIDAD E INFORMACIÓN 
 #### 3.	LENGUAJE Y REDACCIÓN
 #### 4.	ROTULADO
