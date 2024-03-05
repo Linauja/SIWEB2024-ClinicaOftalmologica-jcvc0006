@@ -186,12 +186,51 @@ El uso de imágenes induce al usuario a confiar más en el sitio web y en la emp
 ### TEST HEURÍSTICO 2: [VISIOON 2](https://oftalmologojaen.com/)
 
 #### 1.	GENERALES
+
+Los objetivos de este sitio web, son los mismos que los de los anteriores. Pero la cantidad de información es mucho menor, es decir, se limita a presentar la información esencial. La URL es mucho más fácil de recordar que la de la página anterior. Pero no presenta el nombre de la empresa: 'oftalmologojaen.com'. 
+
+La organización del sitio web es demasiado simple y no está orientada al usuario. Seguramente hayan creido que no era necesario estructurar la información ya que no hay mucha cantidad.
+
+El look&feel no se corresponde con los objetivos, características, contenidos y servicios del sitio web. No incita al usuario a confiar en la empresa.
+
+No es coherente el diseño del sitio web, se limita a una sola página principal carece de estructura y los colores que utilizan no siguen las convenciones que siguen sitios del estilo.
+
+No es reconocible el diseño general del sitio web.
+
+El sitio web no se actualiza periodicamente.
+
+**FOTO DE LA PÁGINA PRINCIPAL**
+
 #### 2.	IDENTIDAD E INFORMACIÓN 
+
+Se muestra claramente la identidad de la empresa a través de todas las páginas.
+
+El logotipo es suficientemente visible, identificable y significativo.
+
+**FOTO DEL LOGOTIPO**
+
+
+Se proporciona información sobre los derechos de autor.
+
+**FOTO DE LOS DERECHOS DE AUTOR** 
+
 #### 3.	LENGUAJE Y REDACCIÓN
+
+La web habla el mismo lenguaje que sus usuarios. El lenguaje es más claro y conciso que el de la página anterior.
+
 #### 4.	ROTULADO
 #### 5.	ESTRUCTURA Y NAVEGACIÓN 
+
+La estructura y navegación no es la más adecuada ya que a pesar de ser un sitio simple y sin mucha información. La página no aprovecha las propiedades de los hipertextos para organizar dicha información.
+
 #### 6.	LAYOUT DE LA PÁGINA
+
+Se aprovechan las zonas de alta jerarquía informativa de la página para contenidos de mayor relevancia. Se ha evitado la sobrecarga informativa reduciendo la información a estrictamente lo esencial. No se ha controlado la longitud de la página.
+
 #### 7.	BÚSQUEDA (EN CASO DE SER NECESARIA)
+
+No proporciona herramientas de búsqueda.
+
 #### 8.	ELEMENTOS MULTIMEDIA
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
