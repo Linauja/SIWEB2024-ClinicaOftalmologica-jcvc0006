@@ -221,7 +221,7 @@ La web habla el mismo lenguaje que sus usuarios. El lenguaje es más claro y con
 #### 4.	ROTULADO
 #### 5.	ESTRUCTURA Y NAVEGACIÓN 
 
-La estructura y navegación no es la más adecuada ya que a pesar de ser un sitio simple y sin mucha información. La página no aprovecha las propiedades de los hipertextos para organizar dicha información.
+La estructura y navegación no son las más adecuadas, a pesar de tratarse de un sitio simple con poca información. La página no utiliza las propiedades de los hipertextos para organizar la información de manera efectiva.
 
 #### 6.	LAYOUT DE LA PÁGINA
 
@@ -233,7 +233,7 @@ No proporciona herramientas de búsqueda.
 
 #### 8.	ELEMENTOS MULTIMEDIA
 
-Las fotografías estás bien recortadas, son comprensibles y se ha cuidado su resolución. El uso de imagenes tiene como consecuencia el aumento de la confianza del usuario en la empresa.
+Las fotografías están bien recortadas, son comprensibles y se ha prestado atención a su resolución. El uso de imágenes resulta en un incremento de la confianza del usuario hacia la empresa.
 
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
@@ -247,14 +247,52 @@ Las fotografías estás bien recortadas, son comprensibles y se ha cuidado su re
 
 #### 1.	GENERALES
 
-Los objetivos del sitio web son los mimos que los de los anteriores sitios web. Son concretos y bien definidos. Los contenidos que ofrece se corresponden con esos objetivos. Tiene una URL facil de recordar aunque un poco larga: 'https://www.oftalmologosgallego.es' 
+Los objetivos del sitio web son idénticos a los de sus predecesores: concretos y bien definidos. Los contenidos disponibles se alinean con estos objetivos. Aunque la URL es fácil de recordar, es un tanto larga: 'https://www.oftalmologosgallego.es'. Sin embargo, la presentación de los servicios no es tan directa, ya que requiere hacer clic en un menú desplegable para ver las categorías de contenido ofrecidas. Esto no cumple con las convenciones de diseño de otros sitios similares.
+
+**FOTO DE LA PAGINA PRINCIPAL Y DEL MENU DESPLEGABLE**
 
 #### 2.	IDENTIDAD E INFORMACIÓN 
+
+Se muestra claramente la identidad de la empresa a través de todas las páginas. El logotipo es significativo, identificable y suficientemente visible.
+
+**FOTO DEL LOGOTIPO** 
+
 #### 3.	LENGUAJE Y REDACCIÓN
+
+El sitio web habla el mismo lenguaje que sus usuarios. 
+
+
 #### 4.	ROTULADO
+
+
+
 #### 5.	ESTRUCTURA Y NAVEGACIÓN 
+
+- La estructura de organización y navegación no sigue las convenciones o la estructura de las demás paginas con los mismos objetivos.
+
+- Los enlaces son reconocibles como tales ya que cambian de color.
+
+- Estan todos los nodos comunicados.
+
+- En los menus de navegación no se ha controlado el número de elementos y términos.
+
+- No existen elementos de navegación que orienten al usuario acerca de dónde está y cómo deshacer su navegación: una opción viable serían las migajas. Aunque creo que no se proporciona dicha ayuda a la navegación porque el sitio web es muy amplio, es decir, no es posible perderse a nivel de profundidad. Sin embargo, al ser tan amplio el usuario deberá realizar un proceso mental para decidir entre tantas posibles opciones, lo que puede hacer que pierda el interés de seguir navegando en el sitio web.
+
+- Se ha evitado la redundancia de enlaces.
+
+- El sitio web no ofrece la posibilidad de que los enlaces le den al usuario el chivatazo que le permitiría conocer de que trata la información que contiene el enlace antes de clicarlo.
+
+- Se ha controlado que no haya páginas web "huerfanas".
+
+- El usuario puede disfrutar de todos los contenidos del sitio web sin necesidad de tener que descargar e instalar plugins adicionales.
+
 #### 6.	LAYOUT DE LA PÁGINA
+
+
+
 #### 7.	BÚSQUEDA (EN CASO DE SER NECESARIA)
+
+
 #### 8.	ELEMENTOS MULTIMEDIA
 #### 9.	AYUDA
 #### 10. ACCESIBILIDAD
