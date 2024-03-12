@@ -344,23 +344,23 @@ Clínica oftalmológica privada.
 
 ## Propósitos:
 
-	- El sitio web debe tener una o varias maneras con las que el usuario contacte con la empresa.
+- El sitio web debe tener una o varias maneras con las que el usuario contacte con la empresa.
 	
-	- El usuario debe poder encontrar fácilmente la ubicación/dirección de la clínica y este debe vincularse con su google maps.
+- El usuario debe poder encontrar fácilmente la ubicación/dirección de la clínica y este debe vincularse con su google maps.
 	
-	- Debe tener un formulario de fácil acceso para rellenar sus datos. La idea de el boton flotante constante prodría estar bien.
+- Debe tener un formulario de fácil acceso para rellenar sus datos. La idea de el boton flotante constante prodría estar bien.
 	
-	- En la medida de lo posible, se debe seguir el convenio de los sitios web del estilo para no perder la confianza del cliente. A no ser que el diseño altenativo sea mucho mejor.
+- En la medida de lo posible, se debe seguir el convenio de los sitios web del estilo para no perder la confianza del cliente. A no ser que el diseño altenativo sea mucho mejor.
 
 ## Objetivos
 
-	- Convertir al usuario del sitio web, en cliente de la clínica:
+- Convertir al usuario del sitio web, en cliente de la clínica:
 	
-		- Conseguir que el diseño del sitio web induza confianza en el usuario.
+	- Conseguir que el diseño del sitio web induza confianza en el usuario.
 		
-		- Ofrecer mecanismos, para que el usuario se ponga en contacto con la clínica, de fácil acceso.
+	- Ofrecer mecanismos, para que el usuario se ponga en contacto con la clínica, de fácil acceso.
 	
-	- Ofrecer información sobre la clínica.
+- Ofrecer información sobre la clínica.
 
 ## Palabras clave
 
