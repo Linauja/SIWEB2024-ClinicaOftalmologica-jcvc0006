@@ -367,41 +367,41 @@ Clínica oftalmológica privada.
 - Pruebas Diagnósticas: 
 
 	- Defectos de Refracción:
-	• Optotipos: Cartas con letras de diferentes tamaños utilizadas para evaluar la agudeza visual.
-	• Graduación óptica: Proceso de determinar la corrección necesaria para la visión, como las gafas o los lentes de contacto.
-	• Frontofocometría: Medición de la potencia de los lentes.
+	1. Optotipos: Cartas con letras de diferentes tamaños utilizadas para evaluar la agudeza visual.
+	2. Graduación óptica: Proceso de determinar la corrección necesaria para la visión, como las gafas o los lentes de contacto.
+	3. Frontofocometría: Medición de la potencia de los lentes.
 
 	- Unidad de Córnea:
-	• Topografía: Imágenes detalladas de la forma y curvatura de la córnea.
-	• Paquimetría: Medición del grosor corneal.
-	• Microscopía especular: Examen para evaluar la salud de las células de la córnea.
+	1. Topografía: Imágenes detalladas de la forma y curvatura de la córnea.
+	2. Paquimetría: Medición del grosor corneal.
+	3. Microscopía especular: Examen para evaluar la salud de las células de la córnea.
 
 	- Unidad de Segmento Anterior:
-	• Biometría: Medición de estructuras oculares como el tamaño del ojo.
-	• OCT de polo anterior: Tomografía de coherencia óptica para examinar la parte frontal del ojo.
-	• Biomicroscopía de segmento anterior: Observación detallada de las estructuras frontales del ojo.
-	• Gonioscopia: Evaluación de la cámara anterior del ojo y el ángulo de drenaje del líquido ocular.
-	• Test de tinción con Fluoresceína: Prueba para detectar daños en la superficie ocular.
+	1. Biometría: Medición de estructuras oculares como el tamaño del ojo.
+	2. OCT de polo anterior: Tomografía de coherencia óptica para examinar la parte frontal del ojo.
+	3. Biomicroscopía de segmento anterior: Observación detallada de las estructuras frontales del ojo.
+	4. Gonioscopia: Evaluación de la cámara anterior del ojo y el ángulo de drenaje del líquido ocular.
+	5. Test de tinción con Fluoresceína: Prueba para detectar daños en la superficie ocular.
 
 	- Unidad de Vías Lagrimales:
-	• Test de tinción con Fluoresceína: Prueba para evaluar la integridad del film lagrimal.
-	• Test de Schirmer: Medición de la producción de lágrimas.
-	• Sondaje y lavado de vías lagrimales: Procedimientos para despejar obstrucciones en los conductos lagrimales.
+	1. Test de tinción con Fluoresceína: Prueba para evaluar la integridad del film lagrimal.
+	2. Test de Schirmer: Medición de la producción de lágrimas.
+	3. Sondaje y lavado de vías lagrimales: Procedimientos para despejar obstrucciones en los conductos lagrimales.
 
 	- Unidad de Glaucoma:
-	• Tonometría de Goldmann: Medición de la presión intraocular.
-	• Paquimetría: Medición del grosor corneal.
-	• Gonioscopia: Evaluación del ángulo de drenaje del líquido ocular.
-	• Campimetría computerizada automática: Prueba para evaluar el campo visual.
-	• OCT de capas de fibras nerviosas del nervio óptico: Tomografía de coherencia óptica para evaluar el nervio óptico.
+	1. Tonometría de Goldmann: Medición de la presión intraocular.
+	2. Paquimetría: Medición del grosor corneal.
+	3. Gonioscopia: Evaluación del ángulo de drenaje del líquido ocular.
+	4. Campimetría computerizada automática: Prueba para evaluar el campo visual.
+	5. OCT de capas de fibras nerviosas del nervio óptico: Tomografía de coherencia óptica para evaluar el nervio óptico.
 
 	- Unidad de Retina:
-	• Biomicroscopía de segmento posterior: Observación detallada de las estructuras posteriores del ojo.
-	• OCT de retina: Tomografía de coherencia óptica para examinar la retina.
-	• Angiografía fluoresceínica o con verde indocianina: Pruebas para evaluar la circulación sanguínea en la retina.
-	• Retinografía: Fotografía de la retina.
-	• Campimetría computerizada automática: Prueba para evaluar el campo visual.
-	• Pruebas electrofisiológicas: Evaluación de la función eléctrica de la retina.
+	1. Biomicroscopía de segmento posterior: Observación detallada de las estructuras posteriores del ojo.
+	2. OCT de retina: Tomografía de coherencia óptica para examinar la retina.
+	3. Angiografía fluoresceínica o con verde indocianina: Pruebas para evaluar la circulación sanguínea en la retina.
+	4. Retinografía: Fotografía de la retina.
+	5. Campimetría computerizada automática: Prueba para evaluar el campo visual.
+	6. Pruebas electrofisiológicas: Evaluación de la función eléctrica de la retina.
 
 		
 ## Metodología
