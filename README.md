@@ -1,6 +1,6 @@
 # Clínica Oftalmológica
 
-## PLANIFICACIÓN: CONTEXTUALIZACIÓN
+## FASE DE PLANIFICACIÓN: CONTEXTUALIZACIÓN
 ### OBJETIVOS INICIALES ANTES DE REALIZAR LA ENTREVISTA:	
 
 
@@ -335,11 +335,32 @@ El proyecto consiste en elaborar un sitio web, para una clínica oftalmológica,
 
 ## Descripción de la organización o institución: 
 
-## Tipo de Proyecto
+Clínica oftalmológica privada.
 
-## Propósito
+- Nombre de la Organización: Clínica Vargas.
+
+- Localización Fictícia: Dr. Eduardo García-Triviño López, nº 1-B pta. 1°A · 23009 · Jaén
+
+
+## Propósitos:
+
+	- El sitio web debe tener una o varias maneras con las que el usuario contacte con la empresa.
+	
+	- El usuario debe poder encontrar fácilmente la ubicación/dirección de la clínica y este debe vincularse con su google maps.
+	
+	- Debe tener un formulario de fácil acceso para rellenar sus datos. La idea de el boton flotante constante prodría estar bien.
+	
+	- En la medida de lo posible, se debe seguir el convenio de los sitios web del estilo para no perder la confianza del cliente. A no ser que el diseño altenativo sea mucho mejor.
 
 ## Objetivos
+
+	- Convertir al usuario del sitio web, en cliente de la clínica:
+	
+		- Conseguir que el diseño del sitio web induza confianza en el usuario.
+		
+		- Ofrecer mecanismos, para que el usuario se ponga en contacto con la clínica, de fácil acceso.
+	
+	- Ofrecer información sobre la clínica.
 
 ## Palabras clave
 
@@ -352,3 +373,37 @@ El proyecto consiste en elaborar un sitio web, para una clínica oftalmológica,
 ## Bibliografía
 
 ## Documentación
+
+
+## FASE DE DISEÑO 
+
+### DISEÑO DE LA ARQUITECTURA DE LA INFORMACIÓN
+
+#### CONTEXTO
+
+- **Objetivos:**
+
+	- Convertir al usuario del sitio web, en cliente de la clínica:
+	
+			- Conseguir que el diseño del sitio web induza confianza en el usuario.
+		
+			- Ofrecer mecanismos, para que el usuario se ponga en contacto con la clínica, de fácil acceso.
+	
+	- Ofrecer información sobre la clínica.
+
+- **Tecnología:**
+
+- **Diseño:**
+
+- **Políticas de Empresa:**
+
+- **Partes Intersadas:**
+
+#### PERSONAS
+
+
+#### CONTENIDOS
+
+### DISEÑO DE LOS CONTENIDOS Y DE LA AI
+
+### DISEÑO DE LA NAVEGACIÓN
