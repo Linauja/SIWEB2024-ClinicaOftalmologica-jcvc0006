@@ -367,9 +367,9 @@ Clínica oftalmológica privada.
 - Pruebas Diagnósticas: 
 
 	- Defectos de Refracción:
-	1. Optotipos: Cartas con letras de diferentes tamaños utilizadas para evaluar la agudeza visual.
-	2. Graduación óptica: Proceso de determinar la corrección necesaria para la visión, como las gafas o los lentes de contacto.
-	3. Frontofocometría: Medición de la potencia de los lentes.
+		1. Optotipos: Cartas con letras de diferentes tamaños utilizadas para evaluar la agudeza visual.
+		2. Graduación óptica: Proceso de determinar la corrección necesaria para la visión, como las gafas o los lentes de contacto.
+		3. Frontofocometría: Medición de la potencia de los lentes.
 
 	- Unidad de Córnea:
 	1. Topografía: Imágenes detalladas de la forma y curvatura de la córnea.
