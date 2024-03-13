@@ -423,23 +423,51 @@ Clínica oftalmológica privada.
 
 - **Objetivos:**
 
-	- Convertir al usuario del sitio web, en cliente de la clínica:
+	- Captar nuevos clientes, es decir, el sitio web debe optimizarse para motores de búsqueda. *(Ganar más dinero)*
+
+	- Convertir al usuario del sitio web, en cliente de la clínica: *(Ganar más dinero)*
+
 		1. Conseguir que el diseño del sitio web induza confianza en el usuario.
 		
-		2. Ofrecer mecanismos, para que el usuario se ponga en contacto con la clínica, de fácil acceso.
+		2. Ofrecer mecanismos ,de fácil acceso, para que el usuario se ponga en contacto con la clínica.
+
+		3. Ofrecer testimonios y reseñas.
 	
-	- Ofrecer información sobre la clínica.
+	- Ofrecer información sobre la clínica. *(Ayudar a que la gente tome mejores decisiones)*
+
+		1. Conseguir que el usuario sea conocedor de los servicios que ofrece la clínica.
+
+		2. Conseguir que el usuario obtenga fácilmente el contacto y la ubicación de la clínica.
+
+		3. Ofrecer contenido educativo para el paciente.
+	
 
 - **Tecnología:**
 
 - **Diseño:**
+
+	- Accesibilidad: La página web debe ser diseñada teniendo en cuenta las pautas de accesibilidad para garantizar que sea usable por personas con discapacidades visuales u otras discapacidades. Esto implica asegurarse de que el diseño sea compatible con lectores de pantalla y que los elementos sean accesibles mediante teclado.
+
+	- Política de privacidad y protección de datos: Es crucial que la página web cumpla con las leyes de protección de datos y privacidad, por lo que se debe incluir un aviso legal, una cláusula de tratamiento de datos y una política de privacidad claramente accesibles desde cualquier parte del sitio.
+
+	- Aviso de cookies: Debe haber un aviso claro y visible sobre el uso de cookies en la página web, así como un mecanismo para que los usuarios acepten su uso.
+
+	- Política de cookies: Es esencial tener una página específica que detalle las cookies utilizadas en el sitio web, así como proporcionar instrucciones para eliminarlas del navegador.
+
+	- Imagen corporativa: El diseño de la página web debe reflejar la imagen corporativa de la clínica oftalmológica, incluyendo colores, tipografía y logotipo.
+
+	- Navegación clara y enfocada: La navegación del sitio debe ser intuitiva y fácil de entender para los usuarios, con una estructura clara que facilite la búsqueda de información relevante sobre los servicios oftalmológicos ofrecidos.
+
+	- Condiciones de contratación: Si la clínica ofrece la posibilidad de realizar contratos en línea, es necesario incluir una página con las condiciones de contratación que especifique aspectos como los idiomas disponibles, el archivado de documentos electrónicos y los pasos a seguir para contratar en línea.
+
+	- Responsividad y adaptabilidad: La página web debe ser adaptable a diferentes dispositivos y tamaños de pantalla, asegurando una experiencia de usuario consistente en computadoras de escritorio, tabletas y teléfonos móviles.
+
 
 - **Políticas de Empresa:**
 
 - **Partes Intersadas:**
 
 #### PERSONAS
-
 
 #### CONTENIDOS
 
