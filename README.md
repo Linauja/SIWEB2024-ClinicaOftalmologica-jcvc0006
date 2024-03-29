@@ -1,5 +1,16 @@
 # Clínica Oftalmológica
 
+
+**Alumno:** Juan Carlos Vargas Camacho [jcvc0006]
+
+**Asignaturas:**
+Sistemas de Información Basados en Web
+
+**Profesores:**
+Lina Guadalupe García Cabrera - (SWIEB)
+
+**Universidad de Jaén 2024**
+
 ## FASE DE PLANIFICACIÓN: CONTEXTUALIZACIÓN
 ### OBJETIVOS INICIALES ANTES DE REALIZAR LA ENTREVISTA:	
 
@@ -13,6 +24,8 @@ Cuando vi dicha página, me di cuenta de que podría ofrecer más servicios que 
 - Implementar una **base de datos que almacene como usuarios a los diferentes clientes y les muestre información particular**, indicando por ejemplo los factores de riesgo que deben evitar según sus enfermedades, información sobre su enfermedad, fechas de su consulta y diagnósticos de las mismas...
 - Gracias a la base de datos anterior podremos almacenar datos de los clientes que nos servirán para **gestionar de manera eficiente el fechado de las consultas de los mismos en función del riesgo de sus diferentes enfermedades**.
 - A la hora de solicitar cita previa, la pestaña que aparece da lugar a ambigüedades, **quizás el implementar un selector de opciones posibles ayudaría a ser más específico** y a prever de manera sencilla la gravedad de la situación.
+
+[!NOTA] Has puesto directamente las conclusiones, no está el plan de investigación, las preguntas y las respuestas!!!
 
 ### CONCLUSIONES DE LA ENTREVISTA:	
 Después de charlar con mi tío, hemos llegado a la conclusión de que mostrar el historial médico de un cliente aunque lo hagamos accediendo mediante usuario y contraseña podría poner en peligro su privacidad. **Por lo que descartamos el mostrar información de su historial médico particular.**
@@ -112,6 +125,7 @@ Utiliza un lenguaje amigable, familiar y cercano.
 
 
 #### 4.	ROTULADO
+[!NOTA] El rotulado se refiere a las palabras/frases para enlaces, titulares, secciones, filtros. De acuerdo a tu comentario anterior, no parece muy correcto porque no utiliza el lenguaje de la audiencia del sitio web
 
 El rotulado de la página es correcto.
 
@@ -186,6 +200,8 @@ El uso de imágenes induce al usuario a confiar más en el sitio web y en la emp
 ### TEST HEURÍSTICO 2: [VISIOON 2](https://oftalmologojaen.com/)
 
 #### 1.	GENERALES
+
+[!NOTA] Esto no se puede considerar un sitio web, es tan sólo una especie de anuncio para que la puedan localizar. Es en realidad el mismo sitio de antes, es la forma de localizar la empresa en Jaén NO??
 
 Los objetivos de este sitio web, son los mismos que los de los anteriores. Pero la cantidad de información es mucho menor, es decir, se limita a presentar la información esencial. La URL es mucho más fácil de recordar que la de la página anterior. Pero no presenta el nombre de la empresa: 'oftalmologojaen.com'. 
 
@@ -307,7 +323,7 @@ El sitio web no proporciona herramientas de búsqueda.
 #### CARACTERÍSTICAS PARTICULARES DE INTERÉS
 
 ### TEST HEURÍSTICO 4: [CLÍNICA REMENTERÍA](https://pidecita.clinicarementeria.es/)
-
+???? dónde está el estudio!!!
 #### 1.	GENERALES
 #### 2.	IDENTIDAD E INFORMACIÓN 
 #### 3.	LENGUAJE Y REDACCIÓN
@@ -331,7 +347,7 @@ El sitio web no proporciona herramientas de búsqueda.
 
 ## Descripción del Proyeto: 
 
-El proyecto consiste en elaborar un sitio web, para una clínica oftalmológica, con los siguientes objetivos: 
+El proyecto consiste en elaborar un sitio web, para una clínica oftalmológica, con los siguientes objetivos: ?????????
 
 ## Descripción de la organización o institución: 
 
@@ -351,6 +367,8 @@ Clínica oftalmológica privada.
 - Debe tener un formulario de fácil acceso para rellenar sus datos. La idea de el boton flotante constante prodría estar bien.
 	
 - En la medida de lo posible, se debe seguir el convenio de los sitios web del estilo para no perder la confianza del cliente. A no ser que el diseño altenativo sea mucho mejor.
+
+  [!NOTA] Un poco escasos estos propósitos, no es realmente un sitio de información, debería ofrecer información relacionada con los servicios que ofrece!!!
 
 ## Objetivos
 
